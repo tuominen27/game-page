@@ -1,0 +1,22 @@
+.menu{
+    background: rgb(138, 134, 134);
+    margin: auto;
+    width: 50%;
+    height: 500px;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.pelilista{
+    align-items: center;
+}
+
+.tammilinkki{
+    background: lightblue;
+    border-radius: 20px;
+    padding: 10px;
+    border: 1px solid lightseagreen;
+    position: relative;
+    top: 20px;
+}
